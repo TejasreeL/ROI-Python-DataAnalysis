@@ -29,3 +29,5 @@ This project employs linear regression, a machine learning algorithm, to predict
 - Matplotlib
 - Seaborn
 
+- Banu 
+
